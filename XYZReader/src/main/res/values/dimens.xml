@@ -1,11 +1,28 @@
 <resources>
-    <!-- detail -->
-    <dimen name="detail_title_text_size">32sp</dimen>
-    <dimen name="detail_body_text_size">22sp</dimen>
+    <!-- As specified in https://material.google.com/material-design/elevation-shadows.html-->
+    <!--https://material.google.com/style/typography.html-->
+
+    <dimen name="detail_title_text_size">20sp</dimen>
+    <dimen name="detail_body_text_size">14sp</dimen>
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
 
+    <!-- Floating action button -->
     <dimen name="fab_elevation">6dp</dimen>
-    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_press_translation_z">12dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="fab_min_size">40dp</dimen>
+
+    <dimen name="refresh_indicator_elevation">3dp</dimen>
+    <dimen name="snackbar_elevation">6dp</dimen>
+    <dimen name="appbar_elevation">4dp</dimen>
+
+    <dimen name="app_bar_height">56dp</dimen>
+
+    <dimen name="left_and_right_padding">16dp</dimen>
+    <dimen name="top_and_bottom_padding">16dp</dimen>
+
+    <dimen name="dialogs_elevation">24dp</dimen>
+
 
 </resources>
