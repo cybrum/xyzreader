@@ -1,3 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_8300fa1f1fc217b5febb229364df4f5c8f2f82eb\classes.dex" />
+    </item>
+    <item
+        jar="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_89d4907a984eb6b87d0874a3d471713f61c05d69\classes.dex" />
+    </item>
+    <item
+        jar="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_407591afa9f3b119893364472f3d3ab56eb6f563\classes.dex" />
+    </item>
+    <item
+        jar="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_e72dfc1f3000f94ef7f60b42a7d4af63bfaa1c39\classes.dex" />
+    </item>
+    <item
+        jar="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_f968f0b9c6720c48f71d86756ec104426e07797d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Krish\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_ae8dec3fc881b324ceccf94ae8faaa93fac8c020\classes.dex" />
+    </item>
+    <item
+        jar="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_a2744918700636e1d34efa36c8d3b334d8f14b7e\classes.dex" />
+    </item>
+    <item
+        jar="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_7e1285f748da5c6a927385bfc22b4f39ff9e2946\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Krish\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_0e9146ba6828c2719e05d25e5a21be8088fdbe47\classes.dex" />
+    </item>
+    <item
+        jar="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_2d702c1e8cde46f00c5f849337b60776c61991fe\classes.dex" />
+    </item>
+    <item
+        jar="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.3.0_71608c5cee7bebdf9a302ac1708e1be2098dba83\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Krish\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_1a6739c60b680ca82e9c6b703a0ee906bcbdbf0e\classes.dex" />
+    </item>
+    <item
+        jar="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_938b605b827a0d81f8b7a80258a777ae405d0570\classes.dex" />
+    </item>
+    <item
+        jar="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_62c82c960968499fc369eded468069940a794046\classes.dex" />
+    </item>
+    <item
+        jar="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d41792854b7fb173e61c2bfea5044fd47df76114">
+        <dex dex="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-23.3.0_e2e091fb1aeddb596829806a464bd6a24db62f09\classes.dex" />
+    </item>
+    <item
+        jar="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="31c48dd69188b0e511d6b8510df74bd1fb46f887">
+        <dex dex="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f7f412b76315b432814185c5ea09d35c3d549d9a\classes.dex" />
+    </item>
+    <item
+        jar="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8026fa063e056cdc1e5e20401b8b04127841dcc3">
+        <dex dex="G:\Online Courses\GitHubProjects\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_800a13b52ea36bc368588f7ac764e1f9fcdcfd07\classes.dex" />
+    </item>
+
+</items>
